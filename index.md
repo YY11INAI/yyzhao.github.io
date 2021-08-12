@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欢迎来到皮皮的博客
 
-You can use the [editor on GitHub](https://github.com/YY11INAI/yyzhao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+​	当准备深入研究hadoop、spark的时候，开始参与机器学习模型的开发;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+​	当准备深入研究深度学习框架的时候，开始参与图像识别的项目研发；
 
-### Markdown
+​	当准备深入研究CV技术的时候，开始参与游戏胜率模型的项目开发；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+​	目前正在研究强化学习！
 
-```markdown
-Syntax highlighted code block
+​	不过，当时间宽裕起来，我想说，我TM全都要！
 
-# Header 1
-## Header 2
-### Header 3
+​	脚踏实地，做技术的，不讲那些花里胡哨！
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YY11INAI/yyzhao.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
