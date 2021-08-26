@@ -2,6 +2,8 @@
 
 目录
 
+​	[亲历面试题收集](./project/python/笔试题目/index.md)
+
 ​	[大数据](./project/BigData/bigdata.md)
 
 ​	[机器学习](./project/AI/Machine Learning/ml.md)
