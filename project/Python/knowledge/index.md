@@ -6,5 +6,5 @@
 
 时间：2021.08 
 
-题目: [兴业数金RPA Python面试题目](./兴业数金RPA Python面试题目.ipynb)
+题目: [兴业数金RPA Python面试题目](./兴业数金RPA Python面试题目.html)
 
