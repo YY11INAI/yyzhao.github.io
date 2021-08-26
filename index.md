@@ -2,7 +2,7 @@
 
 目录
 
-​	[亲历面试题收集](./project/python/笔试题目/index.md)
+​	[亲历面试题收集](./project/Python/笔试题目/index.md)
 
 ​	[大数据](./project/BigData/bigdata.md)
 
