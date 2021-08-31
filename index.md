@@ -12,7 +12,7 @@
 
 ​	[强化学习](./project/AI/Reinforcement Learning/rl.md)
 
-
+​	[Python项目](./project/Python/project/index.md)
 
 
 
