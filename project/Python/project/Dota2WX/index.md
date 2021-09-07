@@ -85,6 +85,7 @@ Data：
 {		
 		"match_id": "4050888",
 		"gametime": 140,
+    	"status": Live,						#BanPick、PreGame、Live、Over、Wait
 		"winrate": 0.5,
 		"radiantheros": [2, 53, 88, 77, 39],
 		"direheros": [16, 126, 31, 74, 114],
